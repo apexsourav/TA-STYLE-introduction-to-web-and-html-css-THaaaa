@@ -1,8 +1,8 @@
-h1 { 
+#heading { 
     color: red;
     fontsize: 62px;
 }
-p {
+.paragraph {
    color:red;
    fontsize:42px;
 }
