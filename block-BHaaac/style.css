@@ -1,0 +1,12 @@
+.heading { 
+     color: red;
+     font-size: 98px;
+}
+.paragraph {
+     color: green;
+     font-size: 52px;
+}
+#body {
+     background-color: blue;
+}
+
