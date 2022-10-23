@@ -1,11 +1,12 @@
 #heading { 
      color: red;
-     fontsize: 64px;
+     font-size: 98px;
 }
 .paragraph {
      color: green;
-     fontsize: 52px;
+     font-size: 52px;
 }
 body {
      background-color: blue;
 }
+
