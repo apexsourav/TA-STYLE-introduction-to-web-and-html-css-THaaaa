@@ -1,4 +1,4 @@
-#heading { 
+.heading { 
      color: red;
      font-size: 98px;
 }
@@ -6,7 +6,7 @@
      color: green;
      font-size: 52px;
 }
-body {
+#body {
      background-color: blue;
 }
 
