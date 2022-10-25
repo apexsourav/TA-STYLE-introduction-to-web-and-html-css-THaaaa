@@ -1,0 +1,20 @@
+tittle {
+    color: red;
+    font-size: 70px;
+}
+#add {
+    color: aqua;
+}
+.heading {
+    color: blue;
+}
+h2 {
+    color: blue;
+}
+.bold {
+    color: brown;
+}
+#social {
+    color: brown;
+}
+body {background-color: azure;}
