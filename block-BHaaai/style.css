@@ -1,0 +1,16 @@
+body {
+    background-color:plum;
+}
+h2 {
+    color: green;
+}
+.centering {
+    text-align: center;
+}
+img {
+    text-align: center;
+}
+#social {
+    text-align: center;
+    color: red;
+}
